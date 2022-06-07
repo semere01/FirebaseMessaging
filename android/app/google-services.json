@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "882184378173",
+    "project_id": "messaging-bloc",
+    "storage_bucket": "messaging-bloc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882184378173:android:7f1ff602cd929caa345754",
+        "android_client_info": {
+          "package_name": "com.example.messaging_bloc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882184378173-i36rrdooebd0np1d7s6ls2d5qpdpe5k5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrVnoq5j-9RAYR8H-X05aIPqb17_LL_nM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882184378173-i36rrdooebd0np1d7s6ls2d5qpdpe5k5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "882184378173-odjs1o96h5b2mglt7l48ak769lqg0p9f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.messagingBloc"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
